@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Dashboard
+# Hospital Emergency Room Dashboard
 
 ## 📌 Project Overview
 Built an **interactive Excel dashboard** to analyze hospital ER patient visits, wait times, satisfaction scores, and demographic trends.  
